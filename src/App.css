@@ -7,7 +7,8 @@
 .App{
     background-color: #edf2f4;
     min-height: 100vh;
-    min-width: 100vw;
+    /* min-width: 100vw; */
+    height: 100%;
     overflow-x: hidden;
     padding: 50px;
 }
